@@ -38,5 +38,5 @@ cacheSolve <- function(x, ...) {
 ## Some tests
 ## B = matrix(c(1, 0, 2, 1, 2, 5, 1, 5, -1),nrow=3,ncol=3)
 ## C = makeCacheMatrix(B)
-## cacheSolve(B)
-## cacheSolve(B)
+## cacheSolve(C)
+## cacheSolve(C)
